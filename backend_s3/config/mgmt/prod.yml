@@ -1,0 +1,4 @@
+---
+bucket: "second-tfstate"
+key: "test/terraform.tfstate"
+region: "eu-central-1"

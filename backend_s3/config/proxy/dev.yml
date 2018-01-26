@@ -1,0 +1,4 @@
+---
+bucket: "one-tfstate"
+key: "test1/terraform.tfstate"
+region: "eu-central-1"
